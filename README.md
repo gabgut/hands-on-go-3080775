@@ -1,3 +1,5 @@
+# This is a personal copy of the course material for practicing. All copyright belongs to their respective owners.
+
 # Hands-On Introduction: Go 
 This is the repository for the LinkedIn Learning course Hands-On Introduction: Go. The full course is available from [LinkedIn Learning][lil-course-url].
 
